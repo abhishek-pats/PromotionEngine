@@ -11,6 +11,9 @@ namespace PromotionEngineSoln
     {
         static void Main(string[] args)
         {
+            /* This is a console program, it can be improvised by making use of the 
+            dependency injection and application of the SOLID principles, due to time
+            constraints presently uploading the code as required.*/
 
             List<Product> products = new List<Product>();
 
