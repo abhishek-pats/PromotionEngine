@@ -6,6 +6,8 @@ using System.Collections.Generic;
 
 namespace PromotionEngineSoln.Test
 {
+    //Testing framework used is NUnit.
+
     [TestClass]
     public class ProductServiceTest
     {
