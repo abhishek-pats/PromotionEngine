@@ -1,0 +1,5 @@
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln.Model\bin\Debug\PromotionEngineSoln.Model.dll
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln.Model\bin\Debug\PromotionEngineSoln.Model.pdb
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln.Model\obj\Debug\PromotionEngineSoln.Model.dll
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln.Model\obj\Debug\PromotionEngineSoln.Model.pdb
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln.Model\obj\Debug\PromotionEngineSoln.Model.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln\bin\Debug\PromotionEngineSoln.exe.config
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln\bin\Debug\PromotionEngineSoln.exe
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln\bin\Debug\PromotionEngineSoln.pdb
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln\bin\Debug\PromotionEngineSoln.Model.dll
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln\bin\Debug\PromotionEngineSoln.Service.dll
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln\bin\Debug\PromotionEngineSoln.Service.Interface.dll
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln\bin\Debug\PromotionEngineSoln.Model.pdb
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln\bin\Debug\PromotionEngineSoln.Service.Interface.pdb
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln\bin\Debug\PromotionEngineSoln.Service.pdb
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln\obj\Debug\PromotionEngineSoln.csprojResolveAssemblyReference.cache
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln\obj\Debug\PromotionEngineSoln.exe
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln\obj\Debug\PromotionEngineSoln.pdb
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln\bin\Debug\Autofac.Extensions.DependencyInjection.dll
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln\bin\Debug\Autofac.Extensions.DependencyInjection.pdb
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln\bin\Debug\Autofac.Extensions.DependencyInjection.xml

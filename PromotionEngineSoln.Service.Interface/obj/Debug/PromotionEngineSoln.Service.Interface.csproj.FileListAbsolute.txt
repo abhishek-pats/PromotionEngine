@@ -1,0 +1,7 @@
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln.Service.Interface\bin\Debug\PromotionEngineSoln.Service.Interface.dll
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln.Service.Interface\bin\Debug\PromotionEngineSoln.Service.Interface.pdb
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln.Service.Interface\bin\Debug\PromotionEngineSoln.Model.dll
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln.Service.Interface\bin\Debug\PromotionEngineSoln.Model.pdb
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln.Service.Interface\obj\Debug\PromotionEngineSoln.Service.Interface.csprojResolveAssemblyReference.cache
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln.Service.Interface\obj\Debug\PromotionEngineSoln.Service.Interface.dll
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln.Service.Interface\obj\Debug\PromotionEngineSoln.Service.Interface.pdb

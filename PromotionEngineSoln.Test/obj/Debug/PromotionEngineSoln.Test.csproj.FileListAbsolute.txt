@@ -1,0 +1,12 @@
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln.Test\bin\Debug\PromotionEngineSoln.Test.dll
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln.Test\bin\Debug\PromotionEngineSoln.Test.pdb
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln.Test\bin\Debug\PromotionEngineSoln.Model.dll
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln.Test\bin\Debug\PromotionEngineSoln.Service.dll
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln.Test\bin\Debug\PromotionEngineSoln.Service.Interface.dll
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln.Test\bin\Debug\PromotionEngineSoln.Model.pdb
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln.Test\bin\Debug\PromotionEngineSoln.Service.Interface.pdb
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln.Test\bin\Debug\PromotionEngineSoln.Service.pdb
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln.Test\obj\Debug\PromotionEngineSoln.Test.csprojResolveAssemblyReference.cache
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln.Test\obj\Debug\PromotionEngineSoln.Test.dll
+E:\Suhasini\PromotionEngineSoln\PromotionEngineSoln.Test\obj\Debug\PromotionEngineSoln.Test.pdb
